@@ -1,0 +1,14 @@
+{
+  "resourceName": "s311374b0e",
+  "policyUUID": "11374b0e",
+  "bucketName": "amplifyreactgraphql-storage-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
